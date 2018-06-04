@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Identicon {
 
 	static int size = 180;
-	static int divisionQuantifier = 40;
+	static int divisionQuantifier = 2;
 
 	static Random random;
 
